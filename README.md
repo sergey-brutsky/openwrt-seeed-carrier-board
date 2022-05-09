@@ -1,5 +1,9 @@
 # openwrt-seeed-carrier-board
 
+## Warning
+>This article is actual only for openwrt releases < 22.03.0-rc1.\
+Newer ones are already have all required drivers and modules out of the box.
+
 This repo contains instructions how to install **Current Stable Release - OpenWrt 21.02.1** to [seeed carrier board](https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM4-Case-p-5029.html)
 
 ![image](files/images/carrier_board.png)
